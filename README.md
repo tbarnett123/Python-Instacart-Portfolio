@@ -37,3 +37,5 @@ Utilizes the following libraries:
 * Seaborn: For statistical data visualization and creating informative, attractive graphics
 * Scipy: For scientific and technical computing, including advanced mathematical functions
 
+##Disclaimer
+Note: All customer information is entirely fictitious and was created solely for educational use as part of CareerFoundry’s Data Analytics program.
